@@ -5,6 +5,7 @@ The Nobara Project, to put it simply, is a modified version of Fedora Linux with
 http://nobaraproject.org
 
 Magnet link : magnet:?xt=urn:btih:808a5f38c34c5b9fbad85d853933fe64b0dec89a&dn=Nobara-36-KDE-5.iso
+
 Or download the torrent https://github.com/hamburgerghini1/nobara_torrent/releases/download/iso/Nobara-36-KDE-5.iso.torrent
 
 I am not affiliated with Nobara project or its maker. I made the torrent to be downloadable because official servers were so slow.
